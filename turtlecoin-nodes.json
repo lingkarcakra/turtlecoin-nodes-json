@@ -288,5 +288,13 @@
       "port": 11898,
       "ssl": false
     }
+    {
+      "name": "100 Node",
+      "url": "lingkarcakra.com",
+      "port": 11898,
+      "ssl": false
+    }
+    
+    
   ]
 }
